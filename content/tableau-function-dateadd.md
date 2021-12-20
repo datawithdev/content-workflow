@@ -24,7 +24,7 @@ DATEADD function is used to add/subtract a date or time offset to an existing DA
 - add/subtract days/weeks/months to date
 - add/subtract hours/minutes to a date or datetime variable
 
-
+In addition, DATEADD can be extremely valuable for things such as calculating rolling time windows, quarter/month end etc.
 The parameters of DATEADD function
 DATEADD function takes 3 parameters.
 - date_part
