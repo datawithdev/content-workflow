@@ -1,5 +1,5 @@
 ---
-title: Tableau DATEDIFF function Complete Guide
+title: Tableau DATEDIFF Function Complete Guide
 menu_order: 2
 taxonomy:
     category: reference
