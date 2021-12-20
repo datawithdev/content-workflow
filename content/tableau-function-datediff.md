@@ -58,6 +58,8 @@ DATEDIFF(('minute', DATE1, DATE2)
 The formula remains the same expect the change in the date\_part parameter.
 DATEDIFF(('hour', DATE1, DATE2)
 
+Remember that the 'internal' parameter accepts 14 different values. 
+
 
 
 
