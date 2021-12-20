@@ -51,7 +51,7 @@ Internal is an integer value. It accepts both negative and positive values. DATE
 - iso-weekday
 
 ## DATEADD Examples for difference in days, weeks, minutes, hours etc
-We see that date\_part paramater of DATEADD function accepts a large number of time units. Each of these units can be used to add as an offset to existing date. Here are some examples.
+We see that date\_part paramater of DATEADD function accepts a large number of time units. Each of these units can be used to add an offset to existing date. Here are some examples.
 
 #### How to add or subtract weeks/months to a DATE in Tableau
 
