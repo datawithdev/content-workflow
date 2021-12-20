@@ -92,6 +92,18 @@ def main():
 
                 str = str.format(h1_title,category)
                 # print(str)
+                if len(section1_h2_title)>5:
+                    section1_h2_title = '## ' + section1_h2_title
+                if len(section2_h2_title)>5:
+                    section2_h2_title = '## ' + section2_h2_title
+                if len(section3_h2_title)>5:
+                    section3_h2_title = '## ' + section3_h2_title
+                if len(section4_h2_title)>5:
+                    section4_h2_title = '## ' + section4_h2_title
+                if len(section5_h2_title)>5:
+                    section5_h2_title = '## ' + section5_h2_title
+                if len(section6_h2_title)>5:
+                    section6_h2_title = '## ' + section6_h2_title
 
                 str =    str + introduction + '\n' + section1_h2_title + '\n' + section1_details +  '\n' + section2_h2_title + '\n' + section2_details  + '\n' + section3_h2_title + '\n' + section3_details + '\n' + section4_h2_title + '\n' + section4_details + '\n' + section5_h2_title + '\n' + section5_details
 

@@ -19,13 +19,13 @@ In this article, we will focus on the DATEDIFF function. Particularly we will lo
 - The parameters of DATEADD function
 - DATEADD Examples for difference in days, weeks, minutes, hours etc.
 
-How to use DATEADD function in Tableau
+## How to use DATEADD function in Tableau
 DATEADD function is used to add/subtract a date or time offset to an existing DATE. Some of the use cases are:
 - add/subtract days/weeks/months to date
 - add/subtract hours/minutes to a date or datetime variable
 
 In addition, DATEADD can be extremely valuable for things such as calculating rolling time windows, quarter/month end etc.
-The parameters of DATEADD function
+## The parameters of DATEADD function
 DATEADD function takes 3 parameters.
 - date_part
 - internal
@@ -50,7 +50,7 @@ Internal is an integer value. It accepts both negative and positive values. DATE
 - iso-week
 - iso-weekday
 
-DATEADD Examples for difference in days, weeks, minutes, hours etc
+## DATEADD Examples for difference in days, weeks, minutes, hours etc
 We see that date\_part paramater of DATEADD function accepts a large number of time units. Each of these units can be used to add as an offset to existing date. Here are some examples.
 
 #### How to add or subtract weeks/months to a DATE in Tableau
