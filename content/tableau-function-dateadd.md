@@ -1,5 +1,5 @@
 ---
-title: dateadd function in Tableau
+title: Power of Tableau's DATEADD function
 menu_order: 2
 taxonomy:
     category: reference
