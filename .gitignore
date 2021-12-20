@@ -1,0 +1,5 @@
+etf_finviz_temp.csv
+stock_finviz_temp.csv
+*.csv
+*.log
+config.debug.ini
