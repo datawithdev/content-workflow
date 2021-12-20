@@ -46,7 +46,10 @@ def main():
                 section4_details = ''
                 section5_details = ''
                 section6_details = ''
+                status = 'draft'
                 # y = json.loads(x)
+                if checkKey( record['fields'], 'status' ):
+                    status = (record['fields']['status'])
                 if checkKey( record['fields'], 'category' ):
                     category = (record['fields']['category'])
                 if checkKey( record['fields'], 'h1_title' ):
@@ -84,6 +87,8 @@ def main():
 
 
                 if len(topic_slug) < 3 or len(category) < 3 or len(topic_parent_slug)<3 or len(introduction) < 10:
+                    continue
+                if status != 'complete':
                     continue
 
 
