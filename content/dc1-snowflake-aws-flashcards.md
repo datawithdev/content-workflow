@@ -29,6 +29,10 @@ If you are a beginner, cloud certifications is a great way to learn today's in-d
 
 If you analyze data using Excel or Tableau, is that considered data science or analysis? Ben Sullins ([@BenSullins](https://twitter.com/BenSullins)) does a great job explaining the difference between a data analyst and a data scientist [in this video](https://www.youtube.com/watch?v=KL4b0RnLq-s).
 
+
+https://www.youtube.com/watch?v=KL4b0RnLq-s
+
+
 "Introduction of Modern Statistics" is a [fantastic eBook](https://www.openintro.org/book/ims/) if you want to learn statistics. You can read the web-version for free or download the PDF on leanpub. Thanks @[minebocek](https://twitter.com/minebocek) and @[jo_hardin47](https://twitter.com/jo_hardin47)
 
 Peter Strubny has some interesting articles for developers. In this [article on Python and AI](https://stribny.name/blog/python-job-search/), he describes how to train a model to find interesting remote jobs.
