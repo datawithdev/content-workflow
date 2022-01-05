@@ -1,5 +1,5 @@
 ---
-title: Newsletter 01 – Snowflake, Scaling MySQL, AWS Flashcards
+title: Issue 01 – Snowflake, Scaling MySQL, AWS Flashcards
 menu_order: 2
 taxonomy:
     category: newsletter
