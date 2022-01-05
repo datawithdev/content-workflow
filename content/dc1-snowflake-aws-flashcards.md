@@ -32,6 +32,7 @@ If you analyze data using Excel or Tableau, is that considered data science or a
 
 https://www.youtube.com/watch?v=KL4b0RnLq-s
 
+[lyte id='KL4b0RnLq-s' /]
 
 "Introduction of Modern Statistics" is a [fantastic eBook](https://www.openintro.org/book/ims/) if you want to learn statistics. You can read the web-version for free or download the PDF on leanpub. Thanks @[minebocek](https://twitter.com/minebocek) and @[jo_hardin47](https://twitter.com/jo_hardin47)
 
