@@ -49,12 +49,11 @@ Steve Wexler does highlight that the chart violates the so-called "best practice
 Image Credit @McKinsey 
 
 
-There are at least 50 different ways, an egg can be "cooked". Data drilldowns are not too far off. Rosario Gauna [@rosariogaunag](https://twitter.com/@rosariogaunag) shows us [15 different ways of drilldowns with examples in Tableau](https://twitter.com/rosariogaunag/status/1479439811001950213/photo/1)
+There are at least 50 different ways, an egg can be "cooked". Data drill down is not too far off. Rosario Gauna [@rosariogaunag](https://twitter.com/@rosariogaunag) shows us [15 different ways of drill down with examples in Tableau](https://twitter.com/rosariogaunag/status/1479439811001950213/photo/1)
 ## Featured Data Leaders
  Teneika Askew [@teneikaask_you](https://twitter.com/teneikaask_you) has beginner level tutorial video on how to visualize your LinkedIn profile data. She is active on Twitter. She hosts spaces and webinars on career opportunities in data. Give her a follow. 
 
-
-https://www.youtube.com/watch?v=cWCY0hUxmOI
+[lyte id='cWCY0hUxmOI' /]
 
 
 Another leader you may want to follow is Stephen Levin [@smlevin11](https://twitter.com/smlevin11). He has worked for Zapier and creates interesting content.  
