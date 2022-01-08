@@ -1,5 +1,5 @@
 ---
-title: Issue 01 – BI Unbundling, Data Podcasts, Emissions
+title: Issue 02 – BI Unbundling, Data Podcasts, Emissions
 menu_order: 2
 taxonomy:
     category: newsletter
