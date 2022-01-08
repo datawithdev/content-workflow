@@ -60,3 +60,5 @@ Another leader you may want to follow is Stephen Levin [@smlevin11](https://twit
 ## Interesting Links
 If you like data and podcasts, Victoriano Izquierdo [@victorianoi}(https://twitter.com/victorianoi) has you covered. He has compiled [a list of data podcasts](https://twitter.com/victorianoi/status/1474005721855545351) and their metadata.  
 
+Please do not hesitate to hit 'reply'. I would love hearing from you.
+
