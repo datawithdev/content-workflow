@@ -55,6 +55,8 @@ There are at least 50 different ways, an egg can be "cooked". Data drill down is
 
 [lyte id='cWCY0hUxmOI' /]
 
+https://www.youtube.com/watch?v=cWCY0hUxmOI
+
 
 Another leader you may want to follow is Stephen Levin [@smlevin11](https://twitter.com/smlevin11). He has worked for Zapier and creates interesting content.  
 ## Interesting Links
