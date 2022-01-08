@@ -10,7 +10,7 @@ In this issue, we will talk about the need for unbundling of the Business Intell
 We will look at example of a data visualization from McKinsey. This chart will highlight what makes a visualization pop. The answer - creativity and going beyond the norm. 
 
 A couple of data leaders are highlighted. We will wrap up with some interesting links and tools. 
-
+## The BI Metrics Layer
  
 Business Intelligence tools can create impressive charts. One of other strengths in the ability to generate SQL on the fly. This is often not appreciated by many. Generating optimized and database vendor-specific SQL code is a non-trivial task.
 
