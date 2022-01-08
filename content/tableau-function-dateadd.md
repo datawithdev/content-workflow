@@ -51,7 +51,7 @@ Internal is an integer value. It accepts both negative and positive values. DATE
 - iso-weekday
 
 ## DATEADD Examples for difference in days, weeks, minutes, hours etc
-We see that date\_part paramater of DATEADD function accepts a large number of time units. Each of these units can be used to add an offset to existing date. Here are some examples.
+We see that date_part paramater of DATEADD function accepts a large number of time units. Each of these units can be used to add an offset to existing date. Here are some examples.
 
 #### How to add or subtract weeks/months to a DATE in Tableau
 
@@ -62,12 +62,11 @@ DATEADD(('minute', 140, DATE1)
 The above formula adds 140 minutes to the datetime field. 
 
 #### How to calculate date difference in hours in Tableau
-The formula remains the same expect the change in the date\_part parameter.
+The formula remains the same expect the change in the date_part parameter.
 
 DATEDIFF(('hour', -4, DATE1)
 
 The above formula subtracts 4 hours from the current day and time.
-
 
 
 

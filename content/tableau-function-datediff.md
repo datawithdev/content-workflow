@@ -47,7 +47,7 @@ The following are the valid values for date_part:
 - iso-weekday
 
 ## DATEDIFF Examples for difference in days, weeks, minutes, hours etc.
-We see that date\_part paramater of DATEDIFF function accepts a large number of time units. Each of those can be used to calculate the difference between two dates in terms of that date/time unit. Here are some examples.
+We see that date_part paramater of DATEDIFF function accepts a large number of time units. Each of those can be used to calculate the difference between two dates in terms of that date/time unit. Here are some examples.
 
 #### How to calculate date difference in minutes in Tableau
 To calculate difference between two dates (or rather two datetimes) in hour or minutes it is recommended to use the datetime object. Otherwise, Tableau assumes the time components (hour, minute, second) to be all zeroes.
@@ -55,11 +55,10 @@ To calculate difference between two dates (or rather two datetimes) in hour or m
 DATEDIFF(('minute', DATE1, DATE2)
 
 #### How to calculate date difference in hours in Tableau
-The formula remains the same expect the change in the date\_part parameter.
+The formula remains the same expect the change in the date_part parameter.
 DATEDIFF(('hour', DATE1, DATE2)
 
 Remember that the 'internal' parameter accepts 14 different values. 
-
 
 
 
