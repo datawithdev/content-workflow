@@ -42,7 +42,7 @@ The rise of RDS and cloud-native data warehouses (e.g., Snowflake, bigquery etc.
 Kleiner Perkins (one of the leading Venture Capital firms in Silicon Valley) thinks that [the next frontier is in operational analytics](https://www.kleinerperkins.com/perspectives/computing-and-data-infrastructure-in-22/). I couldn't agree more. 
 
 
-In 15+ years of working with data, I have never heard a data professional complaining about fresh data. The delay in data refresh cycle is a tradeoff between resources and the business requirements. Nightly data refresh remains a stop-gap solution. Once the business grows the need for more real-time data for operataional anlaytics is inevitable.  
+In 15+ years of working with data, I have never heard a data professional complaining about fresh data. The delay in data refresh cycle is a tradeoff between resources and the business requirements. Nightly data refresh remains a stop-gap solution. Once the business grows the need for more real-time data for operational analytics is inevitable.  
 
 ## Data Visualization
  Looking for design inspiration for your next dataviz? Kev and Kevin from [flerlagetwins](https://www.flerlagetwins.com/) have compiled a list of their all-time favorite Tableau public data visualizations. 
