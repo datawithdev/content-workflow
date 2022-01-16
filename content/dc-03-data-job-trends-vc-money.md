@@ -24,7 +24,7 @@ Bottomline, 'select * from tableA' is not going away by 2070. It will help brush
 
 
 - [SQL Playground](https://datawithdev.com/sql-playground/#/) by your truly - Provides a web-based SQL editor with data
-- [Style guide by Brooklyn data](https://github.com/brooklyn-data/co/blob/main/sql_style_guide.md) - Great for intermediate to advanced SQL users.
+- [Style guide by Brooklyn data](https://github.com/brooklyn-data/co/blob/main/sql_style_guide.md) - Great for intermediate to advanced SQL users. thanks [@BrooklynData](https://twitter.com/BrooklynData)
 
 
 Going back to the job openings, here are the underlying job openings for key data skills on 1/1/2022. 
@@ -40,7 +40,7 @@ The rise of RDS and cloud-native data warehouses (e.g., Snowflake, bigquery etc.
 
 
 Kleiner Perkins (one of the leading Venture Capital firms in Silicon Valley) thinks that [the next frontier is in operational analytics](https://www.kleinerperkins.com/perspectives/computing-and-data-infrastructure-in-22/). I couldn't agree more. 
-
+(h/t) [@buckymoore](https://twitter.com/buckymoore)
 
 In 15+ years of working with data, I have never heard a data professional complaining about fresh data. The delay in data refresh cycle is a tradeoff between resources and the business requirements. Nightly data refresh remains a stop-gap solution. Once the business grows the need for more real-time data for operational analytics is inevitable.  
 
