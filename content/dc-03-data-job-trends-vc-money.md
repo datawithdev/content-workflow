@@ -11,7 +11,7 @@ In this issue, we will cover.
 -  The rise of operational analytics.
 -  Inspiring Tableau data visualizations
 -  Big data, big money
--  Free learning resources on deep learning and data engineering 
+-  Free learning resources on deep learning and a data engineering bootcamp
 
 ## Which data skills are in demand?
  On social media, it may appear that Machine Learning and AI are in high demand. That is true. The foundational data skills such as SQL and Python, however, have more than twice as many job openings. 
