@@ -11,7 +11,7 @@ In this issue, we will cover.
 -  The rise of operational analytics.
 -  Inspiring Tableau data visualizations
 -  Big data, big money
--  In free learning resources on deep learning and data engineering 
+-  Free learning resources on deep learning and data engineering 
 
 ## Which data skills are in demand?
  On social media, it may appear that Machine Learning and AI are in high demand. That is true. The foundational data skills such as SQL and Python, however, have more than twice as many job openings. 
@@ -27,7 +27,7 @@ Bottomline, 'select * from tableA' is not going away by 2070. It will help brush
 - [Style guide by Brooklyn data](https://github.com/brooklyn-data/co/blob/main/sql_style_guide.md) - Great for intermediate to advanced SQL users.
 
 
-Going back to the job openings, here are is the underlying job openings for key data skills on 1/1/2022. 
+Going back to the job openings, here are the underlying job openings for key data skills on 1/1/2022. 
 
 
 ![Data job openings by skill](https://s3.us-east-1.amazonaws.com/cdn.mycontent.top/localcdn/dc-03-data-jobs-chart.png)
@@ -42,7 +42,7 @@ The rise of RDS and cloud-native data warehouses (e.g., Snowflake, bigquery etc.
 Kleiner Perkins (one of the leading Venture Capital firms in Silicon Valley) thinks that [the next frontier is in operational analytics](https://www.kleinerperkins.com/perspectives/computing-and-data-infrastructure-in-22/). I couldn't agree more. 
 
 
-In 15+ years of working with data, I have never heard a data professional complaining about fresh data. The delay in data refresh cycles is a tradeoff between resources and the business requirements. Nightly data refresh remains a stop-gap solution. Once the business grows the need for more real-time data for operataional anlaytics is inevitable.  
+In 15+ years of working with data, I have never heard a data professional complaining about fresh data. The delay in data refresh cycle is a tradeoff between resources and the business requirements. Nightly data refresh remains a stop-gap solution. Once the business grows the need for more real-time data for operataional anlaytics is inevitable.  
 
 ## Data Visualization
  Looking for design inspiration for your next dataviz? Kev and Kevin from [flerlagetwins](https://www.flerlagetwins.com/) have compiled a list of their all-time favorite Tableau public data visualizations. 
