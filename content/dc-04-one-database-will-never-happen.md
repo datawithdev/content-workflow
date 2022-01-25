@@ -17,10 +17,10 @@ In this issue, we will cover.
  A few years ago, I worked on Oracle Exadata. In early 2010s it was being sold by Oracle as a magic cure for database performance problems. It came with a hefty price tag. 
 
 
-You can use the same database for both transactional and the data warehouse workloads. For those of you who are not familiar with the terminologies, let me explain. Transactional workloads are those behind the applications you use every day. These are also the applications used by a bank clerk or a call-center employee. Data warehouse workloads query large amount of data to create summarized reports. For example, daily account balance, monthly total call volume etc.  
+With Exadata, the selling point was, you could use the same database for both transactional and data warehouse workloads. For those of you who are not familiar with the terminologies, let me explain. Transactional workloads are those behind the applications you use every day. These are also the applications used by a bank clerk or a call-center employee. Data warehouse workloads query large amount of data to create summarized reports. For example, daily account balance, monthly total call volume etc.  
 
 
-Oracle Exadata offered great performance improvement. It but paled in comparison to the emerging alternatives like AWS Redshift. Around the same time (early 2010s),  MongoDB and PostgreSQL started gaining popularity for transactional workloads. 
+Oracle Exadata offered great performance improvement. But it paled in comparison to the emerging alternatives like AWS Redshift. Around the same time (early 2010s), MongoDB and PostgreSQL started gaining popularity for transactional workloads. 
 
 
 Hundreds of other tools have been developed each focused on a different slice of the data stack. For example, tools like Informatica and ODI for ETL(OR ELT), change data capture, and visualization etc. 
@@ -41,17 +41,18 @@ Gwen Shapira [@gwenshap](https://twitter.com/gwenshap/status/1485325379506081795
 This is an integrated data platform that combines multiple database offerings into a single platform. This is a powerful concept. An idea whose time has come. 
 
 
-What are the benefits of a data platform?
-
+**What are the benefits of a data platform?**\
+\
 
 - Platform chooses the database(s) depending on the workload characteristics. 
 - Platform manages the data flow from one database to another in near real-time
 - Near real-time analytics 
 
 
-Who is most likely to offer a data platform?
+**Who is most likely to offer a data platform?**
 Based on the features, Snowflake offers one of the most user-friendly data warehouse solutions. They are reports that they are investing in operational analytics. 
 
+\
 
 For further reading in this space, I suggest reading Bessemer Venture Partner's [data infrastructure roadmap](https://www.bvp.com/atlas/roadmap-data-infrastructure) 
 
@@ -65,8 +66,10 @@ https://www.youtube.com/watch?v=c-YCCztV2V8
 ![Tools in Modern Data Stack](https://s3.us-east-1.amazonaws.com/cdn.mycontent.top/localcdn/bessemer_marketmap_revised0727.png)
 *Tools in Modern Data Stack (Image credit: Bessemer Venture Partners)*
 
+\
+
 ## There are only three roles in data.
-[Elena Dyachkova][https://twitter.com/ElenaRusAthletx/status/1483651998335614978] described the overlap in different data titles and roles. I modified the diagram and divided the roles in three categories. The categories are based on foundational skills required for each role.
+[Elena Dyachkova](https://twitter.com/ElenaRusAthletx/status/1483651998335614978) described the overlap in different data titles and roles. I modified the diagram and divided the roles in three categories. The categories are based on foundational skills required for each role.
 
 
 Here is the updated diagram. 
@@ -84,6 +87,7 @@ Here is the updated diagram.
 
 In terms number of jobs and compensation, those in category #1 (analysis and communication) have more openings. This is followed by engineering and applied machine learning. Many startups and smaller organizations do not reach the data maturity to warrant hiring a data scientist with a master's or a PhD in statistics. So there are less job openings in pure data science. 
 
+\
 ## Data Visualization - Dark is More
  I saw a fantastic data visualization on per-capital alcohol consumption by visual capitalist. The choice of color palette, the information density and annotations were great. On the chart, it appeared as if middle east countries have higher per-capital consumption than Europe and North America.  When I looked at the color legend, darker colors were used to represent lower values. 
 This is a data visualization anti-pattern.
@@ -94,6 +98,7 @@ I asked Lisa Charlotte Muth [@lisacmuth](https://twitter.com/lisacmuth). She is 
 
 You can view the conversation [here](https://twitter.com/datawithdev/status/1483494986238812165). 
 
+\
 ## The Future of Data Stack
  If you missed "data lake" train, do not fret. You can either board "data lakehouse" or "data mesh" trains departing in 2022.
 
@@ -109,6 +114,7 @@ We are at a similar inflection point for the data product roles.
 
 She also references an excellent [blog post by Locally Optimistic](https://locallyoptimistic.com/post/run-your-data-team-like-a-product-team/). This is worth diving into in a future post. 
 
+\
 ## Indexes in Postgres
  You may buy new and shiny but the old never goes away. 
 Read any developer forums and you will notice the passion for Postgres. 
