@@ -110,7 +110,7 @@ def main():
                 if len(section6_h2_title)>5:
                     section6_h2_title = '## ' + section6_h2_title
 
-                str =    str + introduction + '\n' + section1_h2_title + '\n' + section1_details +  '\n' + section2_h2_title + '\n' + section2_details  + '\n' + section3_h2_title + '\n' + section3_details + '\n' + section4_h2_title + '\n' + section4_details + '\n' + section5_h2_title + '\n' + section5_details
+                str =    str + introduction + '\n\n\n' + section1_h2_title + '\n' + section1_details +  '\n\n\n' + section2_h2_title + '\n' + section2_details  + '\n\n\n' + section3_h2_title + '\n' + section3_details + '\n\n\n' + section4_h2_title + '\n' + section4_details + '\n\n\n' + section5_h2_title + '\n' + section5_details
 
                 # print('topic_parent_slug: ' + topic_parent_slug)
                 # print('topic_slug: ' + topic_slug)
@@ -130,3 +130,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

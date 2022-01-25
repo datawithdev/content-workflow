@@ -19,12 +19,16 @@ In this article, we will focus on the DATEDIFF function. Particularly we will lo
 - The parameters of DATEDIFF function
 - DATEDIFF Examples for difference in days, weeks, minutes, hours etc.
 
+
+
 ## How to use DATEDIFF function in Tableau?
 DATEDIFF function takes four parameters.  You need to use the field of type "Date" or DATETIME.
 
 DATEDIFF(date_part, start_date, end_date, start_of_week)
 
 ![datediff function parameters](https://s3.us-east-1.amazonaws.com/cdn.mycontent.top/localcdn/datediff-function-parameters.png)
+
+
 
 
 
@@ -46,6 +50,8 @@ The following are the valid values for date_part:
 - iso-week
 - iso-weekday
 
+
+
 ## DATEDIFF Examples for difference in days, weeks, minutes, hours etc.
 We see that date_part paramater of DATEDIFF function accepts a large number of time units. Each of those can be used to calculate the difference between two dates in terms of that date/time unit. Here are some examples.
 
@@ -59,6 +65,10 @@ The formula remains the same expect the change in the date_part parameter.
 DATEDIFF(('hour', DATE1, DATE2)
 
 Remember that the 'internal' parameter accepts 14 different values. 
+
+
+
+
 
 
 

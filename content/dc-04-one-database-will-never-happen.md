@@ -13,6 +13,8 @@ In this issue, we will cover.
 -  The Future of the (Modern) Data Stack 
 -  Indexes in Postgres
 
+
+
 ## Why "one database" will never happen and how data platform helps?
  A few years ago, I worked on Oracle Exadata. In early 2010s it was being sold by Oracle as a magic cure for database performance problems. It came with a hefty price tag. 
 
@@ -68,6 +70,8 @@ https://www.youtube.com/watch?v=c-YCCztV2V8
 
 \
 
+
+
 ## There are only three roles in data.
 [Elena Dyachkova](https://twitter.com/ElenaRusAthletx/status/1483651998335614978) described the overlap in different data titles and roles. I modified the diagram and divided the roles in three categories. The categories are based on foundational skills required for each role.
 
@@ -88,6 +92,8 @@ Here is the updated diagram.
 In terms number of jobs and compensation, those in category #1 (analysis and communication) have more openings. This is followed by engineering and applied machine learning. Many startups and smaller organizations do not reach the data maturity to warrant hiring a data scientist with a master's or a PhD in statistics. So there are less job openings in pure data science. 
 
 \
+
+
 ## Data Visualization - Dark is More
  I saw a fantastic data visualization on per-capital alcohol consumption by visual capitalist. The choice of color palette, the information density and annotations were great. On the chart, it appeared as if middle east countries have higher per-capital consumption than Europe and North America.  When I looked at the color legend, darker colors were used to represent lower values. 
 This is a data visualization anti-pattern.
@@ -99,6 +105,8 @@ I asked Lisa Charlotte Muth [@lisacmuth](https://twitter.com/lisacmuth). She is 
 You can view the conversation [here](https://twitter.com/datawithdev/status/1483494986238812165). 
 
 \
+
+
 ## The Future of Data Stack
  If you missed "data lake" train, do not fret. You can either board "data lakehouse" or "data mesh" trains departing in 2022.
 
@@ -115,6 +123,8 @@ We are at a similar inflection point for the data product roles.
 She also references an excellent [blog post by Locally Optimistic](https://locallyoptimistic.com/post/run-your-data-team-like-a-product-team/). This is worth diving into in a future post. 
 
 \
+
+
 ## Indexes in Postgres
  You may buy new and shiny but the old never goes away. 
 Read any developer forums and you will notice the passion for Postgres. 

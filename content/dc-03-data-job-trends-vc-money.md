@@ -13,6 +13,8 @@ In this issue, we will cover.
 -  Big data, big money
 -  Free learning resources on deep learning and a data engineering bootcamp
 
+
+
 ## Which data skills are in demand?
  On social media, it may appear that Machine Learning and AI are in high demand. That is true. The foundational data skills such as SQL and Python, however, have more than twice as many job openings. 
 
@@ -35,6 +37,8 @@ Going back to the job openings, here are the underlying job openings for key dat
 
 ![Data job openings by skill](https://s3.us-east-1.amazonaws.com/cdn.mycontent.top/localcdn/dc-03-data-jobs-table.png)
 
+
+
 ## The rise of operational analytics
 The rise of RDS and cloud-native data warehouses (e.g., Snowflake, bigquery etc.) means that data warehouse maintenance is a solved problem. What's next?
 
@@ -43,6 +47,8 @@ Kleiner Perkins (one of the leading Venture Capital firms in Silicon Valley) thi
 (h/t) [@buckymoore](https://twitter.com/buckymoore)
 
 In 15+ years of working with data, I have never heard a data professional complaining about fresh data. The delay in data refresh cycle is a tradeoff between resources and the business requirements. Nightly data refresh remains a stop-gap solution. Once the business grows the need for more real-time data for operational analytics is inevitable.  
+
+
 
 ## Data Visualization
  Looking for design inspiration for your next dataviz? Kev and Kevin from [flerlagetwins](https://www.flerlagetwins.com/) have compiled a list of their all-time favorite Tableau public data visualizations. 
@@ -53,11 +59,15 @@ In 15+ years of working with data, I have never heard a data professional compla
 
 https://www.youtube.com/watch?v=9uQiIYPcxbw
 
+
+
 ## Big data, big money
  First credit for this subtitle goes to [Andy Pavlo](https://twitter.com/andy_pavlo). He is a professor of database systems group at CMU. If database technologies light you up, I suggest give him a follow.
 
 
 In [this 2021 review post](https://ottertune.com/blog/2021-databases-retrospective/), he talks about the database popularity and venture capital trends. The success of Snowflake has caused more venture capital dollars to database systems.  
+
+
 ## Learning resources & tools
  [Deep Learning Interviews](https://github.com/BoltzmannEntropy/interviews.ai) is a free book to help you prepare for interviews. Written by [Shlomo Kashani](https://www.linkedin.com/in/quantscientist/) and [Amir Ivry](https://www.linkedin.com/in/amirivry/)
 

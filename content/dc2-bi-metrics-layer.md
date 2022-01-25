@@ -10,6 +10,8 @@ In this issue, we will talk about the need for unbundling of the Business Intell
 We will look at example of a data visualization from McKinsey. This chart will highlight what makes a visualization pop. The answer - creativity and going beyond the norm. 
 
 A couple of data leaders are highlighted. We will wrap up with some interesting links and tools. 
+
+
 ## The BI Metrics Layer
  
 Business Intelligence tools can create impressive charts. One of other strengths in the ability to generate SQL on the fly. This is often not appreciated by many. Generating optimized and database vendor-specific SQL code is a non-trivial task.
@@ -38,6 +40,8 @@ Well, that's the name of the tool. It blends in well if you use declarative or c
 
 "Great Expectations is the leading tool for validating, documenting, and profiling your data."
  
+
+
 ## Data Visualization
  This chart about global greenhouse emissions places an image of the cow in the second place in a column bar chart. 
 
@@ -50,6 +54,8 @@ Image Credit @McKinsey
 
 
 There are at least 50 different ways, an egg can be "cooked". Data drill down is not too far off. Rosario Gauna [@rosariogaunag](https://twitter.com/@rosariogaunag) shows us [15 different ways of drill down with examples in Tableau](https://twitter.com/rosariogaunag/status/1479439811001950213/photo/1)
+
+
 ## Featured Data Leaders
  Teneika Askew [@teneikaask_you](https://twitter.com/teneikaask_you) has beginner level tutorial video on how to visualize your LinkedIn profile data. She is active on Twitter. She hosts spaces and webinars on career opportunities in data. Give her a follow. 
 
@@ -59,8 +65,12 @@ https://www.youtube.com/watch?v=cWCY0hUxmOI
 
 
 Another leader you may want to follow is Stephen Levin [@smlevin11](https://twitter.com/smlevin11). He has worked for Zapier and creates interesting content.  
+
+
 ## Interesting Links
 If you like data and podcasts, Victoriano Izquierdo [@victorianoi](https://twitter.com/victorianoi) has you covered. He has compiled [a list of data podcasts](https://twitter.com/victorianoi/status/1474005721855545351) and their metadata.  
 
 Please do not hesitate to hit 'reply'. I would love hearing from you.
+
+
 

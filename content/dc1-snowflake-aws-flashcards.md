@@ -14,6 +14,8 @@ Where does Snowflake fit into modern data stack?
 What pain-points does Snowflake solve?
 
 Take a deep-dive to understand answers to above question in [Snowflake Basics for Beginners](https://datawithdev.com/snowflake-basics-beginners-part-1/)
+
+
 ## Interesting articles from around the web
 **Data Engineering**
 
@@ -37,6 +39,14 @@ https://www.youtube.com/watch?v=KL4b0RnLq-s
 "Introduction of Modern Statistics" is a [fantastic eBook](https://www.openintro.org/book/ims/) if you want to learn statistics. You can read the web-version for free or download the PDF on leanpub. Thanks @[minebocek](https://twitter.com/minebocek) and @[jo_hardin47](https://twitter.com/jo_hardin47)
 
 Peter Strubny has some interesting articles for developers. In this [article on Python and AI](https://stribny.name/blog/python-job-search/), he describes how to train a model to find interesting remote jobs.
+
+
+
+
+
+
+
+
 
 
 
