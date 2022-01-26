@@ -65,7 +65,7 @@ For further reading in this space, I suggest reading Bessemer Venture Partner's 
 https://www.youtube.com/watch?v=c-YCCztV2V8
 
 
-![Tools in Modern Data Stack](https://s3.us-east-1.amazonaws.com/cdn.mycontent.top/localcdn/bessemer_marketmap_revised0727.png)
+![Tools in Modern Data Stack](https://s3.us-east-1.amazonaws.com/cdn.mycontent.top/localcdn/bessemer_marketmap_revised0727-small.png)
 *Tools in Modern Data Stack (Image credit: Bessemer Venture Partners)*
 
 \
@@ -79,7 +79,7 @@ https://www.youtube.com/watch?v=c-YCCztV2V8
 Here is the updated diagram. 
 
 
-![Data Role Categorization](https://s3.us-east-1.amazonaws.com/cdn.mycontent.top/localcdn/data-roles-titles-skills.png)
+![Data Role Categorization](https://s3.us-east-1.amazonaws.com/cdn.mycontent.top/localcdn/data-roles-titles-skills-small.png)
 
 
 1. Data Analysis & Communication - Ability to analyze data and create meaningful stories. This involves creation of charts and dashboards using tools like Tableau/Looker etc. 
