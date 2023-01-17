@@ -58,7 +58,9 @@ We see that date_part paramater of DATEDIFF function accepts a large number of t
 #### How to calculate date difference in minutes in Tableau
 To calculate difference between two dates (or rather two datetimes) in hour or minutes it is recommended to use the datetime object. Otherwise, Tableau assumes the time components (hour, minute, second) to be all zeroes.
 
+<code>
 DATEDIFF(('minute', DATE1, DATE2)
+</code>
 
 #### How to calculate date difference in hours in Tableau
 The formula remains the same expect the change in the date_part parameter.

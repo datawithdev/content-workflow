@@ -112,7 +112,7 @@ def main():
 
                 str =    str + introduction + '\n\n\n' + section1_h2_title + '\n' + section1_details +  '\n\n\n' + section2_h2_title + '\n' + section2_details  + '\n\n\n' + section3_h2_title + '\n' + section3_details + '\n\n\n' + section4_h2_title + '\n' + section4_details + '\n\n\n' + section5_h2_title + '\n' + section5_details
 
-                # print('topic_parent_slug: ' + topic_parent_slug)
+                print('topic_parent_slug: ' + topic_parent_slug)
                 # print('topic_slug: ' + topic_slug)
                 # print(str)
                 fname = folder_prefix +topic_parent_slug+ "-" + topic_slug + '.md'

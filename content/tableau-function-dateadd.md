@@ -63,7 +63,9 @@ We see that date_part paramater of DATEADD function accepts a large number of ti
 
 To calculate difference between two dates (or rather two datetimes) in hour or minutes it is recommended to use the datetime object. Otherwise, Tableau assumes the time components (hour, minute, second) to be all zeroes.
 
+<code>
 DATEADD(('minute', 140, DATE1)
+</code>
 
 The above formula adds 140 minutes to the datetime field. 
 
