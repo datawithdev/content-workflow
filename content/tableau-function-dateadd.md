@@ -74,7 +74,7 @@ The formula remains the same expect the change in the date_part parameter.
 
 DATEDIFF(('hour', -4, DATE1)
 
-The above formula subtracts 4 hours from the current day and time. The 'interval' parameter can take on other values (e.g. year, month, etc
+The above formula subtracts 4 hours from the current day and time. The 'interval' parameter can take on other values (e.g. year, month, w etc.)
 
 
 
