@@ -16,7 +16,7 @@ There are multiple ways of doing date calculations in Tableau.
 In this article, we will focus on the DATEDIFF function. Particularly we will look at
 
 - How to use DATEDIFF function in Tableau
-- The parameters of DATEDIFF function
+- The different parameters of DATEDIFF function
 - DATEDIFF Examples for difference in days, weeks, minutes, hours etc.
 
 
