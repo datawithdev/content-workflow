@@ -66,7 +66,7 @@ DATEDIFF(('minute', DATE1, DATE2)
 The formula remains the same expect the change in the date_part parameter.
 DATEDIFF(('hour', DATE1, DATE2)
 
-Remember that the 'interval' parameter accepts 14 different values listed earlier (e.g. hour, week year etc.). 
+Remember that the 'interval' parameter accepts 14 different values listed earlier (e.g. hour, week, minute etc.). 
 
 
 
